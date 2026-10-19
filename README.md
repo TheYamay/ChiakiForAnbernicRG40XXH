@@ -39,9 +39,9 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 ## 🕹️➡️🎮 Управление:
 ### Все клавиши сделаны как можно ближе к джойстику PS:		
 	
-	 Anberic           Playstation  
-	   🎮                 🎮
-		B        ➡️        ✕ 
+	     Anberic           Playstation  
+  		🎮                 🎮
+   		B        ➡️        ✕ 
 		Y        ➡️        □
 		X        ➡️        △
 		A        ➡️        ○
